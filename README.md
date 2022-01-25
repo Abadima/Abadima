@@ -1,4 +1,4 @@
-# console.log("Hello World")
+# print("Hello World")
   <a href="https://discord.gg/WpuYSe3xGt">
     <img src="https://img.shields.io/discord/905979173070340097.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Community">
   </a>
