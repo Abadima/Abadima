@@ -22,7 +22,7 @@
 ---
 
 <details>
-  <summary>ℹ️ | GitHub Information</summary>
+  <summary>GitHub Information</summary>
 
   <img align="center" alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=Abadima&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" />
   <img align="center" alt="Public Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abadima&layout=compact&theme=midnight-purple&hide_border=true" />
