@@ -1,11 +1,14 @@
 <div align="center">
 
-# print("Hello World") + neko@starairliner.tk
+# print("Hello World")
+  <a href="https://neko.abadima.ml/">
+    <img src="https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fneko.abadima.ml" alt="My Website">
+  </a>
   <a href="https://discord.gg/WpuYSe3xGt">
     <img src="https://img.shields.io/discord/905979173070340097.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Community">
   </a>
-  <a href="https://neko.abadima.ml/">
-    <img src="https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fneko.abadima.ml" alt="My Website">
+  <a href="mailto:neko@starairliner.tk">
+    <img src="https://img.shields.io/badge/Email%20-Me-purple.svg?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
 </div>
 
@@ -13,7 +16,7 @@
 ### Web/App Development:
 
 - <img alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js
-- <img alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
+- <img alt="React.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React.js
 - <img alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python
 - <img alt="Roblox Lua" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" /> Lua
 
