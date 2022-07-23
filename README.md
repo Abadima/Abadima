@@ -7,7 +7,7 @@
   <a href="https://discord.gg/WpuYSe3xGt">
     <img src="https://img.shields.io/discord/905979173070340097.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Community">
   </a>
-  <a href="mailto:neko@starairliner.tk">
+  <a href="mailto:github@abadima.dev">
     <img src="https://img.shields.io/badge/Email%20-Me-purple.svg?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
 </div>
