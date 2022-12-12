@@ -1,6 +1,7 @@
 <div align="center">
 
-# print("Hello World")
+![Header](https://i.ibb.co/bNM1YZV/github-header-image.webp)
+
   <a href="https://www.abadima.dev/">
     <img src="https://img.shields.io/website?label=Website&style=for-the-badge&url=https://abadima.dev" alt="My Website">
   </a>
@@ -12,26 +13,34 @@
   </a>
 </div>
 
+<br>
 
-### Bot/App Development:
+## Development Languages
 
-- <img alt="CoffeeScript" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/coffeescript-logo-png-transparent.png" /> CoffeeScript
-- <img alt="TS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript
-- <img alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
-- <img alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python
-- <img alt="Roblox Lua" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" /> Lua
+<p align="left">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML/CSS" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/nixcd/NixCD/main/lua.svg" alt="LUA" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 
-### Web Languages:
+## Frameworks:
 
-- <img alt="CSS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS
-- <img alt="HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML
-- <img alt="React.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> REACT
-
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="LUA" style="vertical-align:top; margin:4px">
+  </a>
 
 <div align="center">
-  <details>
-    <summary>GitHub Information</summary>
-    <img align="center" alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=Abadima&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" />
-    <img align="center" alt="Public Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abadima&layout=compact&theme=midnight-purple&hide_border=true" />
-  </details>
+
+# Statistics
+
+<img align="center" alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=Abadima&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" />
 </div>
