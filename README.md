@@ -28,7 +28,10 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML/CSS" style="vertical-align:top; margin:4px">
   </a>
   <a href="#">
-    <img src="https://raw.githubusercontent.com/nixcd/NixCD/main/lua.svg" alt="LUA" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="JAVA" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/nixcd/NixCD/main/lua.svg" alt="ROBLOX LUA" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
