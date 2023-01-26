@@ -33,12 +33,18 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/nixcd/NixCD/main/lua.svg" alt="ROBLOX LUA" style="vertical-align:top; margin:4px">
   </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="JAVA" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 ## Frameworks:
 
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="LUA" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/wpf.svg" alt="LUA" style="vertical-align:top; margin:4px">
   </a>
 
 <div align="center">
